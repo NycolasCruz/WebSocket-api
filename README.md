@@ -1,0 +1,1 @@
+- ./vendor/bin/sail artisan reverb:start
