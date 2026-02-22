@@ -1,5 +1,10 @@
-- docker run --rm -u "$(id -u):$(id -g)" -v "$(pwd):/var/www/html" -w /var/www/html laravelsail/php82-composer:latest composer install --ignore-platform-reqs && composer require laravel/sail --dev
+<h1 align="center">WebSocket API</h1>
 
-- ./vendor/bin/sail up -d
 
-- ./vendor/bin/sail artisan reverb:start
+## 🚀 Principais tecnologias utilizadas
+
+- Laravel Reverb
+
+## 🖥️ Sobre
+
+<p align="justify">Projeto focado no estudo de WebSocket com a biblioteca Laravel Echo e Laravel Reverb.</p>
